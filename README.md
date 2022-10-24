@@ -4,13 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainingToast&layout=compact&hide_border=true&langs_count=10" alt="RemainingToast's Top Langs" width="37%" /> 
 </p>
 
-<p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=sdudend&theme=light&cn=true" alt="JustSong's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/zhihu/?username=hao-de-ni-34&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
-</p>
-
-*Cards provided by [https://github.com/songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards).*
-
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
@@ -28,7 +21,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-10-25 01:18:57](https://img.shields.io/badge/2022--10--25-01%3A18%3A57-brightgreen?style=flat-square)|
+|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-10-25 01:22:46](https://img.shields.io/badge/2022--10--25-01%3A22%3A46-brightgreen?style=flat-square)|
 |[DeathMessages](https://github.com/RemainingToast/DeathMessages)|None|![2022-10-24 12:51:35](https://img.shields.io/badge/2022--10--24-12%3A51%3A35-brightgreen?style=flat-square)|
 |[DMEnderCrystal](https://github.com/RemainingToast/DMEnderCrystal)|None|![2022-10-21 08:38:40](https://img.shields.io/badge/2022--10--21-08%3A38%3A40-brightgreen?style=flat-square)|
 |[TimedNameColour](https://github.com/RemainingToast/TimedNameColour)|None|![2022-02-26 20:35:24](https://img.shields.io/badge/2022--02--26-20%3A35%3A24-brightgreen?style=flat-square)|
@@ -41,4 +34,4 @@
 
 
 
-*Last updated on: 2022-10-25 01:21:24*
+*Last updated on: 2022-10-25 01:23:15*
