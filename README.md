@@ -7,7 +7,7 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric minecraft client|`24⭐`|
+|[ToastClient-legacy](https://github.com/RemainingToast/ToastClient-legacy)|Fabric minecraft client|`24⭐`|
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`11⭐`|
 |[DiscordBot](https://github.com/RemainingToast/DiscordBot)|None|`4⭐`|
 |[DeathMessages](https://github.com/RemainingToast/DeathMessages)|None|`3⭐`|
@@ -21,12 +21,12 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-10-25 01:22:46](https://img.shields.io/badge/2022--10--25-01%3A22%3A46-brightgreen?style=flat-square)|
+|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-10-25 01:23:17](https://img.shields.io/badge/2022--10--25-01%3A23%3A17-brightgreen?style=flat-square)|
 |[DeathMessages](https://github.com/RemainingToast/DeathMessages)|None|![2022-10-24 12:51:35](https://img.shields.io/badge/2022--10--24-12%3A51%3A35-brightgreen?style=flat-square)|
 |[DMEnderCrystal](https://github.com/RemainingToast/DMEnderCrystal)|None|![2022-10-21 08:38:40](https://img.shields.io/badge/2022--10--21-08%3A38%3A40-brightgreen?style=flat-square)|
 |[TimedNameColour](https://github.com/RemainingToast/TimedNameColour)|None|![2022-02-26 20:35:24](https://img.shields.io/badge/2022--02--26-20%3A35%3A24-brightgreen?style=flat-square)|
 |[BlockGrade](https://github.com/RemainingToast/BlockGrade)|Minigame|![2022-02-22 17:25:10](https://img.shields.io/badge/2022--02--22-17%3A25%3A10-brightgreen?style=flat-square)|
-|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric minecraft client|![2022-01-25 19:21:07](https://img.shields.io/badge/2022--01--25-19%3A21%3A07-brightgreen?style=flat-square)|
+|[ToastClient-legacy](https://github.com/RemainingToast/ToastClient-legacy)|Fabric minecraft client|![2022-01-25 19:21:07](https://img.shields.io/badge/2022--01--25-19%3A21%3A07-brightgreen?style=flat-square)|
 |[TabList](https://github.com/RemainingToast/TabList)|None|![2021-08-08 19:18:22](https://img.shields.io/badge/2021--08--08-19%3A18%3A22-brightgreen?style=flat-square)|
 |[RemainingToast-legacy](https://github.com/RemainingToast/RemainingToast-legacy)|None|![2021-08-08 18:18:34](https://img.shields.io/badge/2021--08--08-18%3A18%3A34-brightgreen?style=flat-square)|
 |[DiscordBot](https://github.com/RemainingToast/DiscordBot)|None|![2021-06-07 12:42:00](https://img.shields.io/badge/2021--06--07-12%3A42%3A00-brightgreen?style=flat-square)|
@@ -34,4 +34,4 @@
 
 
 
-*Last updated on: 2022-10-25 01:23:15*
+*Last updated on: 2022-10-25 20:58:38*
