@@ -56,7 +56,12 @@ def fetcher(username: str):
     result['recent_repos'] = recent_repos
     return result
 
-abstract_tpl = """## Abstract
+abstract_tpl = """<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
+
+## Abstract
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true" alt="{github_name}'s Github Stats" width="58%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true&langs_count=10" alt="{github_name}'s Top Langs" width="37%" /> 
