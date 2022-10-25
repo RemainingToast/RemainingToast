@@ -4,8 +4,7 @@ on:
   schedule:
     - cron: "0 12 * * SUN"
   push:
-    tags:
-      - '*'
+    branches: [ "master" ]
   workflow_dispatch:
     inputs:
       name:
