@@ -58,7 +58,7 @@ def fetcher(username: str):
 
 abstract_tpl = """<p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  <img src="https://profile-counter.glitch.me/RemainingToast/count.svg" />
 </p>
 
 ## Abstract
