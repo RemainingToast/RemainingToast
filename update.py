@@ -61,7 +61,7 @@ abstract_tpl = """<p align="center">
   <img src="https://profile-counter.glitch.me/RemainingToast/count.svg" />
 </p>
 
-## Abstract
+## Statistics
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true" alt="{github_name}'s Github Stats" width="58%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true&langs_count=10" alt="{github_name}'s Top Langs" width="37%" /> 
