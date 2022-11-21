@@ -21,22 +21,22 @@
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|None|`2⭐`|
 |[AnarchyCmds](https://github.com/RemainingToast/AnarchyCmds)|None|`1⭐`|
 |[AnarchyVanish](https://github.com/RemainingToast/AnarchyVanish)|None|`1⭐`|
-|[RandomMOTD](https://github.com/RemainingToast/RandomMOTD)|None|`1⭐`|
+|[ArkConfig](https://github.com/RemainingToast/ArkConfig)|20x pvp config for 2raptors2tools ark server.|`1⭐`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-10-29 20:04:24](https://img.shields.io/badge/2022--10--29-20%3A04%3A24-brightgreen?style=flat-square)|
-|[ToastClient](https://github.com/RemainingToast/ToastClient)|None|![2022-10-27 21:34:49](https://img.shields.io/badge/2022--10--27-21%3A34%3A49-brightgreen?style=flat-square)|
+|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-11-21 20:07:36](https://img.shields.io/badge/2022--11--21-20%3A07%3A36-brightgreen?style=flat-square)|
+|[ArkConfig](https://github.com/RemainingToast/ArkConfig)|20x pvp config for 2raptors2tools ark server.|![2022-11-20 17:17:03](https://img.shields.io/badge/2022--11--20-17%3A17%3A03-brightgreen?style=flat-square)|
+|[ServerAPI](https://github.com/RemainingToast/ServerAPI)|None|![2022-11-15 20:27:50](https://img.shields.io/badge/2022--11--15-20%3A27%3A50-brightgreen?style=flat-square)|
+|[AntiRedstoneClock](https://github.com/RemainingToast/AntiRedstoneClock)|None|![2022-11-14 08:11:26](https://img.shields.io/badge/2022--11--14-08%3A11%3A26-brightgreen?style=flat-square)|
+|[2b2tAustralia-DiscordBot](https://github.com/RemainingToast/2b2tAustralia-DiscordBot)|None|![2022-11-13 20:21:41](https://img.shields.io/badge/2022--11--13-20%3A21%3A41-brightgreen?style=flat-square)|
+|[ToastClient](https://github.com/RemainingToast/ToastClient)|None|![2022-11-06 22:35:22](https://img.shields.io/badge/2022--11--06-22%3A35%3A22-brightgreen?style=flat-square)|
 |[TimedNameColour](https://github.com/RemainingToast/TimedNameColour)|None|![2022-02-26 20:35:24](https://img.shields.io/badge/2022--02--26-20%3A35%3A24-brightgreen?style=flat-square)|
 |[BlockGrade](https://github.com/RemainingToast/BlockGrade)|Minigame|![2022-02-22 17:25:10](https://img.shields.io/badge/2022--02--22-17%3A25%3A10-brightgreen?style=flat-square)|
 |[ToastClient-legacy](https://github.com/RemainingToast/ToastClient-legacy)|Fabric minecraft client|![2022-01-25 19:21:07](https://img.shields.io/badge/2022--01--25-19%3A21%3A07-brightgreen?style=flat-square)|
 |[TabList](https://github.com/RemainingToast/TabList)|None|![2021-08-08 19:18:22](https://img.shields.io/badge/2021--08--08-19%3A18%3A22-brightgreen?style=flat-square)|
-|[RemainingToast-legacy](https://github.com/RemainingToast/RemainingToast-legacy)|None|![2021-08-08 18:18:34](https://img.shields.io/badge/2021--08--08-18%3A18%3A34-brightgreen?style=flat-square)|
-|[DiscordBot](https://github.com/RemainingToast/DiscordBot)|None|![2021-06-07 12:42:00](https://img.shields.io/badge/2021--06--07-12%3A42%3A00-brightgreen?style=flat-square)|
-|[RandomMOTD](https://github.com/RemainingToast/RandomMOTD)|None|![2021-05-26 15:05:21](https://img.shields.io/badge/2021--05--26-15%3A05%3A21-brightgreen?style=flat-square)|
-|[AnarchyVanish](https://github.com/RemainingToast/AnarchyVanish)|None|![2021-05-22 15:16:01](https://img.shields.io/badge/2021--05--22-15%3A16%3A01-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2022-10-29 20:04:40*
+*Last updated on: 2022-11-21 20:07:56*
