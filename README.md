@@ -12,8 +12,8 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[ToastClient-legacy](https://github.com/RemainingToast/ToastClient-legacy)|Fabric minecraft client|`24⭐`|
-|[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`11⭐`|
+|[ToastClient-legacy](https://github.com/RemainingToast/ToastClient-legacy)|Fabric minecraft client|`23⭐`|
+|[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`10⭐`|
 |[DiscordBot](https://github.com/RemainingToast/DiscordBot)|None|`4⭐`|
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|None|`4⭐`|
 |[forge-client](https://github.com/RemainingToast/forge-client)|None|`3⭐`|
@@ -26,7 +26,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-12-01 08:42:52](https://img.shields.io/badge/2022--12--01-08%3A42%3A52-brightgreen?style=flat-square)|
+|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-12-02 08:35:48](https://img.shields.io/badge/2022--12--02-08%3A35%3A48-brightgreen?style=flat-square)|
 |[ArkConfig](https://github.com/RemainingToast/ArkConfig)|20x pvp config for 2raptors2tools ark server.|![2022-11-20 17:17:03](https://img.shields.io/badge/2022--11--20-17%3A17%3A03-brightgreen?style=flat-square)|
 |[ServerAPI](https://github.com/RemainingToast/ServerAPI)|None|![2022-11-15 20:27:50](https://img.shields.io/badge/2022--11--15-20%3A27%3A50-brightgreen?style=flat-square)|
 |[AntiRedstoneClock](https://github.com/RemainingToast/AntiRedstoneClock)|None|![2022-11-14 08:11:26](https://img.shields.io/badge/2022--11--14-08%3A11%3A26-brightgreen?style=flat-square)|
@@ -39,4 +39,4 @@
 
 
 
-*Last updated on: 2022-12-02 08:35:45*
+*Last updated on: 2022-12-03 08:33:41*
