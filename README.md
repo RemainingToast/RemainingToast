@@ -19,14 +19,14 @@
 |[forge-client](https://github.com/RemainingToast/forge-client)|None|`3⭐`|
 |[ToastPack](https://github.com/RemainingToast/ToastPack)|Minecraft Resource Pack that I use|`3⭐`|
 |[Bread-Mod](https://github.com/RemainingToast/Bread-Mod)|None|`2⭐`|
-|[RandomMOTD](https://github.com/RemainingToast/RandomMOTD)|None|`2⭐`|
 |[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|`2⭐`|
 |[AnarchyCmds](https://github.com/RemainingToast/AnarchyCmds)|None|`1⭐`|
+|[AnarchyVanish](https://github.com/RemainingToast/AnarchyVanish)|None|`1⭐`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-12-13 08:39:26](https://img.shields.io/badge/2022--12--13-08%3A39%3A26-brightgreen?style=flat-square)|
+|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-12-14 08:36:03](https://img.shields.io/badge/2022--12--14-08%3A36%3A03-brightgreen?style=flat-square)|
 |[RandomMOTD](https://github.com/RemainingToast/RandomMOTD)|None|![2022-12-08 20:21:26](https://img.shields.io/badge/2022--12--08-20%3A21%3A26-brightgreen?style=flat-square)|
 |[ArkConfig](https://github.com/RemainingToast/ArkConfig)|20x pvp config for 2raptors2tools ark server.|![2022-11-20 17:17:03](https://img.shields.io/badge/2022--11--20-17%3A17%3A03-brightgreen?style=flat-square)|
 |[ServerAPI](https://github.com/RemainingToast/ServerAPI)|None|![2022-11-15 20:27:50](https://img.shields.io/badge/2022--11--15-20%3A27%3A50-brightgreen?style=flat-square)|
@@ -39,4 +39,4 @@
 
 
 
-*Last updated on: 2022-12-14 08:35:59*
+*Last updated on: 2022-12-15 08:38:29*
