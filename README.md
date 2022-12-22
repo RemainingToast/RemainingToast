@@ -26,8 +26,8 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-12-21 08:32:58](https://img.shields.io/badge/2022--12--21-08%3A32%3A58-brightgreen?style=flat-square)|
 |[AusTech-DiscordBot](https://github.com/RemainingToast/AusTech-DiscordBot)|None|![2022-12-20 17:18:34](https://img.shields.io/badge/2022--12--20-17%3A18%3A34-brightgreen?style=flat-square)|
-|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-12-20 08:36:05](https://img.shields.io/badge/2022--12--20-08%3A36%3A05-brightgreen?style=flat-square)|
 |[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|![2022-12-15 18:54:03](https://img.shields.io/badge/2022--12--15-18%3A54%3A03-brightgreen?style=flat-square)|
 |[RandomMOTD](https://github.com/RemainingToast/RandomMOTD)|None|![2022-12-08 20:21:26](https://img.shields.io/badge/2022--12--08-20%3A21%3A26-brightgreen?style=flat-square)|
 |[ArkConfig](https://github.com/RemainingToast/ArkConfig)|20x pvp config for 2raptors2tools ark server.|![2022-11-20 17:17:03](https://img.shields.io/badge/2022--11--20-17%3A17%3A03-brightgreen?style=flat-square)|
@@ -39,4 +39,4 @@
 
 
 
-*Last updated on: 2022-12-21 08:32:54*
+*Last updated on: 2022-12-22 08:35:28*
