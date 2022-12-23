@@ -26,8 +26,9 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-12-21 08:32:58](https://img.shields.io/badge/2022--12--21-08%3A32%3A58-brightgreen?style=flat-square)|
-|[AusTech-DiscordBot](https://github.com/RemainingToast/AusTech-DiscordBot)|None|![2022-12-20 17:18:34](https://img.shields.io/badge/2022--12--20-17%3A18%3A34-brightgreen?style=flat-square)|
+|[AusTech-Web](https://github.com/RemainingToast/AusTech-Web)|None|![2022-12-22 19:23:53](https://img.shields.io/badge/2022--12--22-19%3A23%3A53-brightgreen?style=flat-square)|
+|[AusTech-DiscordBot](https://github.com/RemainingToast/AusTech-DiscordBot)|None|![2022-12-22 11:16:54](https://img.shields.io/badge/2022--12--22-11%3A16%3A54-brightgreen?style=flat-square)|
+|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2022-12-22 08:35:31](https://img.shields.io/badge/2022--12--22-08%3A35%3A31-brightgreen?style=flat-square)|
 |[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|![2022-12-15 18:54:03](https://img.shields.io/badge/2022--12--15-18%3A54%3A03-brightgreen?style=flat-square)|
 |[RandomMOTD](https://github.com/RemainingToast/RandomMOTD)|None|![2022-12-08 20:21:26](https://img.shields.io/badge/2022--12--08-20%3A21%3A26-brightgreen?style=flat-square)|
 |[ArkConfig](https://github.com/RemainingToast/ArkConfig)|20x pvp config for 2raptors2tools ark server.|![2022-11-20 17:17:03](https://img.shields.io/badge/2022--11--20-17%3A17%3A03-brightgreen?style=flat-square)|
@@ -35,8 +36,7 @@
 |[AntiRedstoneClock](https://github.com/RemainingToast/AntiRedstoneClock)|None|![2022-11-14 08:11:26](https://img.shields.io/badge/2022--11--14-08%3A11%3A26-brightgreen?style=flat-square)|
 |[2b2tAustralia-DiscordBot](https://github.com/RemainingToast/2b2tAustralia-DiscordBot)|None|![2022-11-13 20:21:41](https://img.shields.io/badge/2022--11--13-20%3A21%3A41-brightgreen?style=flat-square)|
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|None|![2022-11-06 22:35:22](https://img.shields.io/badge/2022--11--06-22%3A35%3A22-brightgreen?style=flat-square)|
-|[TimedNameColour](https://github.com/RemainingToast/TimedNameColour)|None|![2022-02-26 20:35:24](https://img.shields.io/badge/2022--02--26-20%3A35%3A24-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2022-12-22 08:35:28*
+*Last updated on: 2022-12-23 08:34:18*
