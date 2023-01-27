@@ -26,8 +26,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[2b2tAustralia-DiscordBot](https://github.com/RemainingToast/2b2tAustralia-DiscordBot)|None|![2023-01-26 07:33:04](https://img.shields.io/badge/2023--01--26-07%3A33%3A04-brightgreen?style=flat-square)|
-|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2023-01-25 08:35:52](https://img.shields.io/badge/2023--01--25-08%3A35%3A52-brightgreen?style=flat-square)|
+|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2023-01-26 08:36:26](https://img.shields.io/badge/2023--01--26-08%3A36%3A26-brightgreen?style=flat-square)|
 |[AusTech-DiscordBot](https://github.com/RemainingToast/AusTech-DiscordBot)|None|![2022-12-23 19:56:33](https://img.shields.io/badge/2022--12--23-19%3A56%3A33-brightgreen?style=flat-square)|
 |[AusTech-Web](https://github.com/RemainingToast/AusTech-Web)|None|![2022-12-22 19:23:53](https://img.shields.io/badge/2022--12--22-19%3A23%3A53-brightgreen?style=flat-square)|
 |[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|![2022-12-15 18:54:03](https://img.shields.io/badge/2022--12--15-18%3A54%3A03-brightgreen?style=flat-square)|
@@ -36,7 +35,8 @@
 |[ServerAPI](https://github.com/RemainingToast/ServerAPI)|None|![2022-11-15 20:27:50](https://img.shields.io/badge/2022--11--15-20%3A27%3A50-brightgreen?style=flat-square)|
 |[AntiRedstoneClock](https://github.com/RemainingToast/AntiRedstoneClock)|None|![2022-11-14 08:11:26](https://img.shields.io/badge/2022--11--14-08%3A11%3A26-brightgreen?style=flat-square)|
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|None|![2022-11-06 22:35:22](https://img.shields.io/badge/2022--11--06-22%3A35%3A22-brightgreen?style=flat-square)|
+|[TimedNameColour](https://github.com/RemainingToast/TimedNameColour)|None|![2022-02-26 20:35:24](https://img.shields.io/badge/2022--02--26-20%3A35%3A24-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2023-01-26 08:36:23*
+*Last updated on: 2023-01-27 08:38:39*
