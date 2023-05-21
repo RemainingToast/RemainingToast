@@ -26,8 +26,8 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2023-05-20 08:33:20](https://img.shields.io/badge/2023--05--20-08%3A33%3A20-brightgreen?style=flat-square)|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|![2023-05-19 19:41:36](https://img.shields.io/badge/2023--05--19-19%3A41%3A36-brightgreen?style=flat-square)|
-|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2023-05-19 08:35:05](https://img.shields.io/badge/2023--05--19-08%3A35%3A05-brightgreen?style=flat-square)|
 |[AusTech-DiscordBot](https://github.com/RemainingToast/AusTech-DiscordBot)|None|![2022-12-23 19:56:33](https://img.shields.io/badge/2022--12--23-19%3A56%3A33-brightgreen?style=flat-square)|
 |[AusTech-Web](https://github.com/RemainingToast/AusTech-Web)|None|![2022-12-22 19:23:53](https://img.shields.io/badge/2022--12--22-19%3A23%3A53-brightgreen?style=flat-square)|
 |[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|![2022-12-15 18:54:03](https://img.shields.io/badge/2022--12--15-18%3A54%3A03-brightgreen?style=flat-square)|
@@ -39,4 +39,4 @@
 
 
 
-*Last updated on: 2023-05-20 08:33:17*
+*Last updated on: 2023-05-21 08:37:33*
