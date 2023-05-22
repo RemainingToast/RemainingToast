@@ -16,27 +16,27 @@
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`10⭐`|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|`7⭐`|
 |[DiscordBot](https://github.com/RemainingToast/DiscordBot)|None|`4⭐`|
+|[FamilyFunPack](https://github.com/RemainingToast/FamilyFunPack)|Family Fun Pack utility mod for 2b2t|`4⭐`|
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|None|`4⭐`|
 |[forge-client](https://github.com/RemainingToast/forge-client)|None|`3⭐`|
 |[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|`3⭐`|
 |[ToastPack](https://github.com/RemainingToast/ToastPack)|Minecraft Resource Pack that I use|`3⭐`|
-|[BreadMod](https://github.com/RemainingToast/BreadMod)|None|`2⭐`|
-|[AnarchyCmds](https://github.com/RemainingToast/AnarchyCmds)|None|`1⭐`|
+|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Plays block game|`2⭐`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[RemainingToast](https://github.com/RemainingToast/RemainingToast)|None|![2023-05-21 08:37:35](https://img.shields.io/badge/2023--05--21-08%3A37%3A35-brightgreen?style=flat-square)|
+|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Plays block game|![2023-05-22 16:37:32](https://img.shields.io/badge/2023--05--22-16%3A37%3A32-brightgreen?style=flat-square)|
+|[toastmc.dev](https://github.com/RemainingToast/toastmc.dev)|Landing page for my username|![2023-05-22 14:01:29](https://img.shields.io/badge/2023--05--22-14%3A01%3A29-brightgreen?style=flat-square)|
+|[ElytraBot](https://github.com/RemainingToast/ElytraBot)|A* elytra flight bot|![2023-05-21 12:21:43](https://img.shields.io/badge/2023--05--21-12%3A21%3A43-brightgreen?style=flat-square)|
+|[Prototype](https://github.com/RemainingToast/Prototype)|Prototype is a very basic implementation of a Minecraft proxy using MCProtocolLib, for 1.19.|![2023-05-21 03:14:43](https://img.shields.io/badge/2023--05--21-03%3A14%3A43-brightgreen?style=flat-square)|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|![2023-05-19 19:41:36](https://img.shields.io/badge/2023--05--19-19%3A41%3A36-brightgreen?style=flat-square)|
-|[AusTech-DiscordBot](https://github.com/RemainingToast/AusTech-DiscordBot)|None|![2022-12-23 19:56:33](https://img.shields.io/badge/2022--12--23-19%3A56%3A33-brightgreen?style=flat-square)|
-|[AusTech-Web](https://github.com/RemainingToast/AusTech-Web)|None|![2022-12-22 19:23:53](https://img.shields.io/badge/2022--12--22-19%3A23%3A53-brightgreen?style=flat-square)|
-|[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|![2022-12-15 18:54:03](https://img.shields.io/badge/2022--12--15-18%3A54%3A03-brightgreen?style=flat-square)|
-|[ArkConfig](https://github.com/RemainingToast/ArkConfig)|20x pvp config for 2raptors2tools ark server.|![2022-11-20 17:17:03](https://img.shields.io/badge/2022--11--20-17%3A17%3A03-brightgreen?style=flat-square)|
-|[ToastClient](https://github.com/RemainingToast/ToastClient)|None|![2022-11-06 22:35:22](https://img.shields.io/badge/2022--11--06-22%3A35%3A22-brightgreen?style=flat-square)|
-|[TimedNameColour](https://github.com/RemainingToast/TimedNameColour)|None|![2022-02-26 20:35:24](https://img.shields.io/badge/2022--02--26-20%3A35%3A24-brightgreen?style=flat-square)|
-|[BlockGrade](https://github.com/RemainingToast/BlockGrade)|Minigame|![2022-02-22 17:25:10](https://img.shields.io/badge/2022--02--22-17%3A25%3A10-brightgreen?style=flat-square)|
-|[ToastClient-legacy](https://github.com/RemainingToast/ToastClient-legacy)|Fabric minecraft client|![2022-01-25 19:21:07](https://img.shields.io/badge/2022--01--25-19%3A21%3A07-brightgreen?style=flat-square)|
+|[baritone](https://github.com/RemainingToast/baritone)|google maps for block game|![2023-05-19 18:55:24](https://img.shields.io/badge/2023--05--19-18%3A55%3A24-brightgreen?style=flat-square)|
+|[CookieClient](https://github.com/RemainingToast/CookieClient)|CookieClient is a utility client for anarchy servers|![2023-04-15 12:31:46](https://img.shields.io/badge/2023--04--15-12%3A31%3A46-brightgreen?style=flat-square)|
+|[Auto-GPT](https://github.com/RemainingToast/Auto-GPT)|An experimental open-source attempt to make GPT-4 fully autonomous.|![2023-04-14 11:07:22](https://img.shields.io/badge/2023--04--14-11%3A07%3A22-brightgreen?style=flat-square)|
+|[AutoDelete](https://github.com/RemainingToast/AutoDelete)|A Discord bot that automatically deletes all messages in a designated channel on a rolling basis|![2023-01-16 07:05:11](https://img.shields.io/badge/2023--01--16-07%3A05%3A11-brightgreen?style=flat-square)|
+|[Stevebot](https://github.com/RemainingToast/Stevebot)|A pathfinding bot for minecraft|![2023-01-12 08:40:40](https://img.shields.io/badge/2023--01--12-08%3A40%3A40-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2023-05-22 08:36:35*
+*Last updated on: 2023-05-22 16:41:11*
