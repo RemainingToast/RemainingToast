@@ -11,7 +11,6 @@ recent_repo_num = 10
 from_zone = tz.tzutc()
 to_zone = tz.tzlocal()
 
-
 def fetcher(username: str):
     result = {
         'name': '',
@@ -20,8 +19,8 @@ def fetcher(username: str):
         'recent_repos': []
     }
     user_info_url = "https://api.github.com/users/{}".format(username)
-    header = {} if token == "" else {"Authorization": "bearer {}".format(token)}
-    res = requests.get(user_info_url, header)
+    headers = {} if token == "" else {"Authorization": "bearer {}".format(token)}
+    res = requests.get(user_info_url, headers=headers)
     user = res.json()
     if 'name' in user:
         result['name'] = user['name']
@@ -30,16 +29,16 @@ def fetcher(username: str):
     # Fetch repositories for the user
     for i in range(1, 2 + user['public_repos'] // 100):
         all_repos_url = "https://api.github.com/users/{}/repos?per_page=100&page={}".format(username, i)
-        res = requests.get(all_repos_url, header)
+        res = requests.get(all_repos_url, headers=headers)
         repos.extend(res.json())
         
     # Fetch repositories for organizations the user belongs to
     orgs_url = "https://api.github.com/users/{}/orgs".format(username)
-    res = requests.get(orgs_url, header)
+    res = requests.get(orgs_url, headers=headers)
     orgs = res.json()
     for org in orgs:
         org_repos_url = "https://api.github.com/orgs/{}/repos?per_page=100".format(org['login'])
-        res = requests.get(org_repos_url, header)
+        res = requests.get(org_repos_url, headers=headers)
         repos.extend(res.json())
         
     processed_repos = []
