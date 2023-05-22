@@ -3,13 +3,14 @@ import os
 import datetime
 from dateutil import tz
 
-token = os.getenv('GITHUB_TOKEN')
+token = ''
 current_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 top_repo_num = 10
 recent_repo_num = 10
 
 from_zone = tz.tzutc()
 to_zone = tz.tzlocal()
+
 
 def fetcher(username: str):
     result = {
@@ -19,31 +20,18 @@ def fetcher(username: str):
         'recent_repos': []
     }
     user_info_url = "https://api.github.com/users/{}".format(username)
-    headers = {} if token == "" else {"Authorization": "bearer {}".format(token)}
-    res = requests.get(user_info_url, headers=headers)
+    header = {} if token == "" else {"Authorization": "bearer {}".format(token)}
+    res = requests.get(user_info_url, header)
     user = res.json()
-    if 'name' in user:
-        result['name'] = user['name']
+    result['name'] = user['name']
     repos = []
-    
-    # Fetch repositories for the user
     for i in range(1, 2 + user['public_repos'] // 100):
         all_repos_url = "https://api.github.com/users/{}/repos?per_page=100&page={}".format(username, i)
-        res = requests.get(all_repos_url, headers=headers)
+        res = requests.get(all_repos_url, header)
         repos.extend(res.json())
-        
-    # Fetch repositories for organizations the user belongs to
-    orgs_url = "https://api.github.com/users/{}/orgs".format(username)
-    res = requests.get(orgs_url, headers=headers)
-    orgs = res.json()
-    for org in orgs:
-        org_repos_url = "https://api.github.com/orgs/{}/repos?per_page=100".format(org['login'])
-        res = requests.get(org_repos_url, headers=headers)
-        repos.extend(res.json())
-        
     processed_repos = []
     for repo in repos:
-        if repo['name'] == username:
+        if repo['name'] == username: 
             continue
         processed_repo = {
             'score': repo['stargazers_count'] + repo['watchers_count'] + repo['forks_count'],
