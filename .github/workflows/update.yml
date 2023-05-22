@@ -29,6 +29,7 @@ jobs:
       env:
         GIT_USER: "Github Action"
         GIT_EMAIL: "action@github.com"
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config user.name "${GIT_USER}"
         git config user.email "${GIT_EMAIL}"
