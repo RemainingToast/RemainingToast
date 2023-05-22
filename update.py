@@ -31,8 +31,7 @@ def fetcher(username: str):
         repos.extend(res.json())
     processed_repos = []
     for repo in repos:
-        if repo['fork']:
-            continue
+        if repo['name'] == username: continue
         processed_repo = {
             'score': repo['stargazers_count'] + repo['watchers_count'] + repo['forks_count'],
             'star': repo['stargazers_count'],
