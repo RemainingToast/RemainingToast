@@ -23,7 +23,8 @@ def fetcher(username: str):
     header = {} if token == "" else {"Authorization": "bearer {}".format(token)}
     res = requests.get(user_info_url, header)
     user = res.json()
-    result['name'] = user['name']
+    if 'name' in user:
+        result['name'] = user['name']
     repos = []
     
     # Fetch repositories for the user
