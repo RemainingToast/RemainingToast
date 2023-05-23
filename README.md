@@ -21,12 +21,12 @@
 |[forge-client](https://github.com/RemainingToast/forge-client)|None|`3⭐`|
 |[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|`3⭐`|
 |[ToastPack](https://github.com/RemainingToast/ToastPack)|Minecraft Resource Pack that I use|`3⭐`|
-|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Plays block game|`2⭐`|
+|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone extension to further automate block game |`2⭐`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Plays block game|![2023-05-22 16:37:32](https://img.shields.io/badge/2023--05--22-16%3A37%3A32-brightgreen?style=flat-square)|
+|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone extension to further automate block game |![2023-05-23 00:31:42](https://img.shields.io/badge/2023--05--23-00%3A31%3A42-brightgreen?style=flat-square)|
 |[toastmc.dev](https://github.com/RemainingToast/toastmc.dev)|Landing page for my username|![2023-05-22 14:01:29](https://img.shields.io/badge/2023--05--22-14%3A01%3A29-brightgreen?style=flat-square)|
 |[ElytraBot](https://github.com/RemainingToast/ElytraBot)|A* elytra flight bot|![2023-05-21 12:21:43](https://img.shields.io/badge/2023--05--21-12%3A21%3A43-brightgreen?style=flat-square)|
 |[Prototype](https://github.com/RemainingToast/Prototype)|Prototype is a very basic implementation of a Minecraft proxy using MCProtocolLib, for 1.19.|![2023-05-21 03:14:43](https://img.shields.io/badge/2023--05--21-03%3A14%3A43-brightgreen?style=flat-square)|
@@ -39,4 +39,4 @@
 
 
 
-*Last updated on: 2023-05-22 17:00:43*
+*Last updated on: 2023-05-23 08:35:42*
