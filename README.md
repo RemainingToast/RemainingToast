@@ -13,7 +13,7 @@
 |Project|Description|Stars|
 |:--|:--|:--|
 |[ToastClient-legacy](https://github.com/RemainingToast/ToastClient-legacy)|Fabric minecraft client|`24⭐`|
-|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|`10⭐`|
+|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|`15⭐`|
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`10⭐`|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|`7⭐`|
 |[DiscordBot](https://github.com/RemainingToast/DiscordBot)|None|`4⭐`|
@@ -26,7 +26,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|![2023-05-24 20:51:51](https://img.shields.io/badge/2023--05--24-20%3A51%3A51-brightgreen?style=flat-square)|
+|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|![2023-05-26 02:11:31](https://img.shields.io/badge/2023--05--26-02%3A11%3A31-brightgreen?style=flat-square)|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|![2023-05-23 22:53:07](https://img.shields.io/badge/2023--05--23-22%3A53%3A07-brightgreen?style=flat-square)|
 |[toastmc.dev](https://github.com/RemainingToast/toastmc.dev)|Landing page for my username|![2023-05-22 14:01:29](https://img.shields.io/badge/2023--05--22-14%3A01%3A29-brightgreen?style=flat-square)|
 |[ElytraBot](https://github.com/RemainingToast/ElytraBot)|A* elytra flight bot|![2023-05-21 12:21:43](https://img.shields.io/badge/2023--05--21-12%3A21%3A43-brightgreen?style=flat-square)|
@@ -39,4 +39,4 @@
 
 
 
-*Last updated on: 2023-05-25 08:33:48*
+*Last updated on: 2023-05-26 08:35:00*
