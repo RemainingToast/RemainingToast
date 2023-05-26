@@ -57,11 +57,15 @@ def fetcher(username: str):
     return result
 
 abstract_tpl = """<p align="center"> 
-  Visitor count<br>
+  <br>
   <img src="https://profile-counter.glitch.me/RemainingToast/count.svg" />
 </p>
 
-## Statistics
+<p align="center">
+  <a href="https://www.digitalocean.com/?refcode=c370c62609f3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+</p>
+
+## Statistics 📈
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true" alt="{github_name}'s Github Stats" width="58%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true&langs_count=10" alt="{github_name}'s Top Langs" width="37%" /> 
