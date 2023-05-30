@@ -17,7 +17,7 @@
 |Project|Description|Stars|
 |:--|:--|:--|
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric minecraft client|`24⭐`|
-|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|`18⭐`|
+|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|`19⭐`|
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`10⭐`|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|`7⭐`|
 |[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|`4⭐`|
@@ -43,4 +43,4 @@
 
 
 
-*Last updated on: 2023-05-29 08:35:58*
+*Last updated on: 2023-05-30 08:37:19*
