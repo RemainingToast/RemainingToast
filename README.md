@@ -30,6 +30,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[BreadMod](https://github.com/RemainingToast/BreadMod)|None|![2023-06-02 19:32:32](https://img.shields.io/badge/2023--06--02-19%3A32%3A32-brightgreen?style=flat-square)|
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric minecraft client|![2023-05-26 20:01:45](https://img.shields.io/badge/2023--05--26-20%3A01%3A45-brightgreen?style=flat-square)|
 |[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|![2023-05-26 19:59:08](https://img.shields.io/badge/2023--05--26-19%3A59%3A08-brightgreen?style=flat-square)|
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|![2023-05-26 11:52:31](https://img.shields.io/badge/2023--05--26-11%3A52%3A31-brightgreen?style=flat-square)|
@@ -39,8 +40,7 @@
 |[ElytraBot](https://github.com/RemainingToast/ElytraBot)|A* elytra flight bot|![2023-05-21 12:21:43](https://img.shields.io/badge/2023--05--21-12%3A21%3A43-brightgreen?style=flat-square)|
 |[Prototype](https://github.com/RemainingToast/Prototype)|Prototype is a very basic implementation of a Minecraft proxy using MCProtocolLib, for 1.19.|![2023-05-21 03:14:43](https://img.shields.io/badge/2023--05--21-03%3A14%3A43-brightgreen?style=flat-square)|
 |[baritone](https://github.com/RemainingToast/baritone)|google maps for block game|![2023-05-19 18:55:24](https://img.shields.io/badge/2023--05--19-18%3A55%3A24-brightgreen?style=flat-square)|
-|[CookieClient](https://github.com/RemainingToast/CookieClient)|CookieClient is a utility client for anarchy servers|![2023-04-15 12:31:46](https://img.shields.io/badge/2023--04--15-12%3A31%3A46-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2023-06-02 08:39:47*
+*Last updated on: 2023-06-03 08:39:05*
