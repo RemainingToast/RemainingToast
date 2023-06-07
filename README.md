@@ -16,7 +16,7 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`24⭐`|
+|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`25⭐`|
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|`20⭐`|
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`10⭐`|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|`7⭐`|
@@ -30,7 +30,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|![2023-06-06 00:54:52](https://img.shields.io/badge/2023--06--06-00%3A54%3A52-brightgreen?style=flat-square)|
+|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|![2023-06-06 23:59:38](https://img.shields.io/badge/2023--06--06-23%3A59%3A38-brightgreen?style=flat-square)|
 |[BreadMod](https://github.com/RemainingToast/BreadMod)|None|![2023-06-02 19:32:32](https://img.shields.io/badge/2023--06--02-19%3A32%3A32-brightgreen?style=flat-square)|
 |[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|![2023-05-26 19:59:08](https://img.shields.io/badge/2023--05--26-19%3A59%3A08-brightgreen?style=flat-square)|
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|![2023-05-26 11:52:31](https://img.shields.io/badge/2023--05--26-11%3A52%3A31-brightgreen?style=flat-square)|
@@ -43,4 +43,4 @@
 
 
 
-*Last updated on: 2023-06-06 08:40:33*
+*Last updated on: 2023-06-07 08:41:33*
