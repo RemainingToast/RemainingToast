@@ -16,13 +16,13 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`25⭐`|
-|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|`20⭐`|
+|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`24⭐`|
+|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of the Baritone API|`18⭐`|
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`10⭐`|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|`7⭐`|
 |[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|`4⭐`|
 |[DiscordBot](https://github.com/RemainingToast/DiscordBot)|None|`4⭐`|
-|[FamilyFunPack](https://github.com/RemainingToast/FamilyFunPack)|Family Fun Pack utility mod for 2b2t|`4⭐`|
+|[FamilyFunPack](https://github.com/RemainingToast/FamilyFunPack)|Family Fun Pack utility mod for 2b2t|`3⭐`|
 |[forge-client](https://github.com/RemainingToast/forge-client)|None|`3⭐`|
 |[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|`3⭐`|
 |[ToastPack](https://github.com/RemainingToast/ToastPack)|Minecraft Resource Pack that I use|`3⭐`|
@@ -43,4 +43,4 @@
 
 
 
-*Last updated on: 2023-06-17 08:37:16*
+*Last updated on: 2023-06-18 08:44:03*
