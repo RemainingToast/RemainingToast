@@ -19,7 +19,7 @@
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`26⭐`|
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`10⭐`|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|`7⭐`|
-|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|`5⭐`|
+|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|`6⭐`|
 |[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|`4⭐`|
 |[DiscordBot](https://github.com/RemainingToast/DiscordBot)|None|`4⭐`|
 |[FamilyFunPack](https://github.com/RemainingToast/FamilyFunPack)|Family Fun Pack utility mod for 2b2t|`4⭐`|
@@ -31,6 +31,7 @@
 |Project|Description|Last Update|
 |:--|:--|:--|
 |[LinearRegionFileFormatTools](https://github.com/RemainingToast/LinearRegionFileFormatTools)|None|![2023-07-02 13:11:34](https://img.shields.io/badge/2023--07--02-13%3A11%3A34-brightgreen?style=flat-square)|
+|[the-algorithm](https://github.com/RemainingToast/the-algorithm)|Source code for Twitter's Recommendation Algorithm|![2023-06-29 07:51:21](https://img.shields.io/badge/2023--06--29-07%3A51%3A21-brightgreen?style=flat-square)|
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|![2023-06-28 14:47:20](https://img.shields.io/badge/2023--06--28-14%3A47%3A20-brightgreen?style=flat-square)|
 |[KCommando](https://github.com/RemainingToast/KCommando)|Annotation-based multifunctional command handler framework for JDA & Javacord.|![2023-06-25 21:43:16](https://img.shields.io/badge/2023--06--25-21%3A43%3A16-brightgreen?style=flat-square)|
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|![2023-06-22 21:17:52](https://img.shields.io/badge/2023--06--22-21%3A17%3A52-brightgreen?style=flat-square)|
@@ -39,8 +40,7 @@
 |[BreadMod](https://github.com/RemainingToast/BreadMod)|None|![2023-06-02 19:32:32](https://img.shields.io/badge/2023--06--02-19%3A32%3A32-brightgreen?style=flat-square)|
 |[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|![2023-05-26 19:59:08](https://img.shields.io/badge/2023--05--26-19%3A59%3A08-brightgreen?style=flat-square)|
 |[Voyager](https://github.com/RemainingToast/Voyager)|An Open-Ended Embodied Agent with Large Language Models|![2023-05-26 09:00:46](https://img.shields.io/badge/2023--05--26-09%3A00%3A46-brightgreen?style=flat-square)|
-|[toastmc.dev](https://github.com/RemainingToast/toastmc.dev)|Landing page for my username|![2023-05-22 14:01:29](https://img.shields.io/badge/2023--05--22-14%3A01%3A29-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2023-07-07 08:44:42*
+*Last updated on: 2023-07-08 08:43:13*
