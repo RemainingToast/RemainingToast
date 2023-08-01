@@ -30,6 +30,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[ALS-Refactored-Lyra](https://github.com/RemainingToast/ALS-Refactored-Lyra)|Completely compatible version of ALS for Lyra. |![2023-07-31 12:59:27](https://img.shields.io/badge/2023--07--31-12%3A59%3A27-brightgreen?style=flat-square)|
 |[LinearRegionFileFormatTools](https://github.com/RemainingToast/LinearRegionFileFormatTools)|None|![2023-07-02 13:11:34](https://img.shields.io/badge/2023--07--02-13%3A11%3A34-brightgreen?style=flat-square)|
 |[the-algorithm](https://github.com/RemainingToast/the-algorithm)|Source code for Twitter's Recommendation Algorithm|![2023-06-29 07:51:21](https://img.shields.io/badge/2023--06--29-07%3A51%3A21-brightgreen?style=flat-square)|
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|![2023-06-28 14:47:20](https://img.shields.io/badge/2023--06--28-14%3A47%3A20-brightgreen?style=flat-square)|
@@ -39,8 +40,7 @@
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|![2023-06-14 20:23:29](https://img.shields.io/badge/2023--06--14-20%3A23%3A29-brightgreen?style=flat-square)|
 |[BreadMod](https://github.com/RemainingToast/BreadMod)|None|![2023-06-02 19:32:32](https://img.shields.io/badge/2023--06--02-19%3A32%3A32-brightgreen?style=flat-square)|
 |[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|![2023-05-26 19:59:08](https://img.shields.io/badge/2023--05--26-19%3A59%3A08-brightgreen?style=flat-square)|
-|[Voyager](https://github.com/RemainingToast/Voyager)|An Open-Ended Embodied Agent with Large Language Models|![2023-05-26 09:00:46](https://img.shields.io/badge/2023--05--26-09%3A00%3A46-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2023-07-31 08:39:25*
+*Last updated on: 2023-08-01 08:42:49*
