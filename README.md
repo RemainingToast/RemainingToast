@@ -30,7 +30,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[ALS-Refactored-Lyra](https://github.com/RemainingToast/ALS-Refactored-Lyra)|Completely compatible version of ALS for Lyra. |![2023-08-04 23:07:31](https://img.shields.io/badge/2023--08--04-23%3A07%3A31-brightgreen?style=flat-square)|
+|[ALS4Lyra](https://github.com/RemainingToast/ALS4Lyra)|Completely compatible version of ALS for Lyra. |![2023-08-05 19:19:16](https://img.shields.io/badge/2023--08--05-19%3A19%3A16-brightgreen?style=flat-square)|
 |[LinearRegionFileFormatTools](https://github.com/RemainingToast/LinearRegionFileFormatTools)|None|![2023-07-02 13:11:34](https://img.shields.io/badge/2023--07--02-13%3A11%3A34-brightgreen?style=flat-square)|
 |[the-algorithm](https://github.com/RemainingToast/the-algorithm)|Source code for Twitter's Recommendation Algorithm|![2023-06-29 07:51:21](https://img.shields.io/badge/2023--06--29-07%3A51%3A21-brightgreen?style=flat-square)|
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|![2023-06-28 14:47:20](https://img.shields.io/badge/2023--06--28-14%3A47%3A20-brightgreen?style=flat-square)|
@@ -43,4 +43,4 @@
 
 
 
-*Last updated on: 2023-08-05 08:36:38*
+*Last updated on: 2023-08-06 08:33:39*
