@@ -16,8 +16,8 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`26⭐`|
-|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|`11⭐`|
+|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`27⭐`|
+|[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|`12⭐`|
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`10⭐`|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|`7⭐`|
 |[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|`4⭐`|
@@ -30,6 +30,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[ZenithProxy](https://github.com/RemainingToast/ZenithProxy)|2b2t minecraft proxy|![2023-08-15 07:35:26](https://img.shields.io/badge/2023--08--15-07%3A35%3A26-brightgreen?style=flat-square)|
 |[ALS4Lyra](https://github.com/RemainingToast/ALS4Lyra)|Completely compatible version of ALS 4 Lyra. |![2023-08-09 04:25:53](https://img.shields.io/badge/2023--08--09-04%3A25%3A53-brightgreen?style=flat-square)|
 |[LinearRegionFileFormatTools](https://github.com/RemainingToast/LinearRegionFileFormatTools)|None|![2023-07-02 13:11:34](https://img.shields.io/badge/2023--07--02-13%3A11%3A34-brightgreen?style=flat-square)|
 |[the-algorithm](https://github.com/RemainingToast/the-algorithm)|Source code for Twitter's Recommendation Algorithm|![2023-06-29 07:51:21](https://img.shields.io/badge/2023--06--29-07%3A51%3A21-brightgreen?style=flat-square)|
@@ -39,8 +40,7 @@
 |[Kaiiju](https://github.com/RemainingToast/Kaiiju)|Folia fork for anarchists.|![2023-06-21 09:31:49](https://img.shields.io/badge/2023--06--21-09%3A31%3A49-brightgreen?style=flat-square)|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|![2023-06-14 20:23:29](https://img.shields.io/badge/2023--06--14-20%3A23%3A29-brightgreen?style=flat-square)|
 |[BreadMod](https://github.com/RemainingToast/BreadMod)|None|![2023-06-02 19:32:32](https://img.shields.io/badge/2023--06--02-19%3A32%3A32-brightgreen?style=flat-square)|
-|[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|![2023-05-26 19:59:08](https://img.shields.io/badge/2023--05--26-19%3A59%3A08-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2023-08-15 08:29:42*
+*Last updated on: 2023-08-16 08:29:33*
