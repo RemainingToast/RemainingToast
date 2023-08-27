@@ -97,7 +97,6 @@ recent_repos_tpl = """
  <summary>Recent Updates</summary>
 |Project|Description|Last Update|
 |:--|:--|:--|
-</details>
 """
 
 top_repos_tpl = """
@@ -105,7 +104,6 @@ top_repos_tpl = """
  <summary>Top Projects</summary>
 |Project|Description|Stars|
 |:--|:--|:--|
-</details>
 """.format(current_time)
 
 footer_tpl = f"""
@@ -129,6 +127,8 @@ def render(github_username, github_data, zhihu_username='') -> str:
     for repo in github_data['recent_repos']:
         repo['date'] = repo['pushed_at'].replace('-', '--').replace(' ', '-').replace(':', '%3A')
         recent_repos_tpl += "|[{name}]({link})|{description}|![{pushed_at}](https://img.shields.io/badge/{date}-brightgreen?style=flat-square)|\n".format(**repo)
+    recent_repos_tpl += "\n</details>"
+    footer_tpl += "\n</details>"
     markdown += recent_repos_tpl
     markdown += footer_tpl
     return markdown
