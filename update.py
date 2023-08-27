@@ -65,11 +65,37 @@ abstract_tpl = """<p align="center">
   <a href="https://www.digitalocean.com/?refcode=c370c62609f3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 </p>
 
-## Statistics 📈
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true" alt="{github_name}'s Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true&langs_count=10" alt="{github_name}'s Top Langs" width="37%" /> 
-</p>
+<!--<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr><td colspan="2" align="center">
+
+<a href="https://git.io/streak-stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RemainingToast" />
+</a>
+
+</td></tr>
+<tr><td>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RemainingToast&count_private=true&show_icons=true&bg_color=00000000&text_color=2B65CF&icon_color=2B65CF&title_color=2B65CF&hide_border=true" />
+</a>
+
+</td><td>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RemainingToast&count_private=true&hide=tex,Rich%20Text%20Format&langs_count=10&layout=compact&bg_color=00000000&text_color=2B65CF&icon_color=2B65CF&title_color=2B65CF&hide_border=true&exclude_repo=Modellierung" />
+</a>
+
+</td></tr>
+</table>-->
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RemainingToast&count_private=true&show_icons=true&bg_color=00000000&text_color=2B65CF&icon_color=2B65CF&title_color=2B65CF&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RemainingToast&count_private=true&hide=tex,Rich%20Text%20Format&langs_count=10&layout=compact&bg_color=00000000&text_color=2B65CF&icon_color=2B65CF&title_color=2B65CF&hide_border=true&exclude_repo=Modellierung" />
+</a>
 """
 
 zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)\n"
