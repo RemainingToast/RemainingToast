@@ -32,7 +32,8 @@
 </a>
 
 <details>
- <summary>Top Projects</summary>
+ <summary>Top Projects 🚀</summary>
+ 
 |Project|Description|Stars|
 |:--|:--|:--|
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`26⭐`|
@@ -47,7 +48,8 @@
 |[ToastPack](https://github.com/RemainingToast/ToastPack)|Minecraft Resource Pack that I use|`3⭐`|
  </details>
 <details>
- <summary>Recent Updates</summary>
+ <summary>Recent Updates ⏰</summary>
+ 
 |Project|Description|Last Update|
 |:--|:--|:--|
 |[LocationSimulator](https://github.com/RemainingToast/LocationSimulator)|MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.|![2023-08-22 20:05:26](https://img.shields.io/badge/2023--08--22-20%3A05%3A26-brightgreen?style=flat-square)|
