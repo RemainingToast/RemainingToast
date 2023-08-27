@@ -1,11 +1,3 @@
-<p align="center"> 
-  <br>
-  <img src="https://profile-counter.glitch.me/RemainingToast/count.svg" />
-</p>
-
-<p align="center">
-  <a href="https://www.digitalocean.com/?refcode=c370c62609f3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
-</p>
 
 <!--<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr><td colspan="2" align="center">
@@ -69,4 +61,4 @@
 
 
 
-*Last updated on: 2023-08-27 13:42:58*
+*Last updated on: 2023-08-27 13:44:59*
