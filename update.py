@@ -96,21 +96,15 @@ recent_repos_tpl = """
 <details>
  <summary>Recent Updates</summary>
 |Project|Description|Last Update|
-|:--|:--|:--|\n
+|:--|:--|:--|
 """
 
 top_repos_tpl = """
 <details>
  <summary>Top Projects</summary>
 |Project|Description|Stars|
-|:--|:--|:--|\n
+|:--|:--|:--|
 """.format(current_time)
-
-footer_tpl = f"""
-\n
-*Last updated on: {current_time}*
-"""
-
 
 def render(github_username, github_data, zhihu_username='') -> str:
     markdown = ""
@@ -122,13 +116,13 @@ def render(github_username, github_data, zhihu_username='') -> str:
     global top_repos_tpl
     for repo in github_data['top_repos']:
         top_repos_tpl += "|[{name}]({link})|{description}|`{star}⭐`|\n".format(**repo)
-    top_repos_tpl += "\n</details>"
+    top_repos_tpl += " </details>"
     markdown += top_repos_tpl
     global recent_repos_tpl
     for repo in github_data['recent_repos']:
         repo['date'] = repo['pushed_at'].replace('-', '--').replace(' ', '-').replace(':', '%3A')
         recent_repos_tpl += "|[{name}]({link})|{description}|![{pushed_at}](https://img.shields.io/badge/{date}-brightgreen?style=flat-square)|\n".format(**repo)
-    recent_repos_tpl += "\n</details>"
+    recent_repos_tpl += " </details>"
     markdown += recent_repos_tpl
     return markdown
 
