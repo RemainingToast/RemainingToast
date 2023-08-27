@@ -7,11 +7,37 @@
   <a href="https://www.digitalocean.com/?refcode=c370c62609f3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 </p>
 
-## Statistics 📈
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RemainingToast&show_icons=true&hide_border=true" alt="RemainingToast's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainingToast&layout=compact&hide_border=true&langs_count=10" alt="RemainingToast's Top Langs" width="37%" /> 
-</p>
+<!--<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr><td colspan="2" align="center">
+
+<a href="https://git.io/streak-stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RemainingToast" />
+</a>
+
+</td></tr>
+<tr><td>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RemainingToast&count_private=true&show_icons=true&bg_color=00000000&text_color=2B65CF&icon_color=2B65CF&title_color=2B65CF&hide_border=true" />
+</a>
+
+</td><td>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RemainingToast&count_private=true&hide=tex,Rich%20Text%20Format&langs_count=10&layout=compact&bg_color=00000000&text_color=2B65CF&icon_color=2B65CF&title_color=2B65CF&hide_border=true&exclude_repo=Modellierung" />
+</a>
+
+</td></tr>
+</table>-->
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RemainingToast&count_private=true&show_icons=true&bg_color=00000000&text_color=2B65CF&icon_color=2B65CF&title_color=2B65CF&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RemainingToast&count_private=true&hide=tex,Rich%20Text%20Format&langs_count=10&layout=compact&bg_color=00000000&text_color=2B65CF&icon_color=2B65CF&title_color=2B65CF&hide_border=true&exclude_repo=Modellierung" />
+</a>
 
 ## Top Projects
 |Project|Description|Stars|
@@ -30,6 +56,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[LocationSimulator](https://github.com/RemainingToast/LocationSimulator)|MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.|![2023-08-22 20:05:26](https://img.shields.io/badge/2023--08--22-20%3A05%3A26-brightgreen?style=flat-square)|
 |[ZenithProxy](https://github.com/RemainingToast/ZenithProxy)|2b2t minecraft proxy|![2023-08-15 07:35:26](https://img.shields.io/badge/2023--08--15-07%3A35%3A26-brightgreen?style=flat-square)|
 |[ALS4Lyra](https://github.com/RemainingToast/ALS4Lyra)|Completely compatible version of ALS 4 Lyra. |![2023-08-09 04:25:53](https://img.shields.io/badge/2023--08--09-04%3A25%3A53-brightgreen?style=flat-square)|
 |[LinearRegionFileFormatTools](https://github.com/RemainingToast/LinearRegionFileFormatTools)|None|![2023-07-02 13:11:34](https://img.shields.io/badge/2023--07--02-13%3A11%3A34-brightgreen?style=flat-square)|
@@ -39,8 +66,7 @@
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|![2023-06-22 21:17:52](https://img.shields.io/badge/2023--06--22-21%3A17%3A52-brightgreen?style=flat-square)|
 |[Kaiiju](https://github.com/RemainingToast/Kaiiju)|Folia fork for anarchists.|![2023-06-21 09:31:49](https://img.shields.io/badge/2023--06--21-09%3A31%3A49-brightgreen?style=flat-square)|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|![2023-06-14 20:23:29](https://img.shields.io/badge/2023--06--14-20%3A23%3A29-brightgreen?style=flat-square)|
-|[BreadMod](https://github.com/RemainingToast/BreadMod)|None|![2023-06-02 19:32:32](https://img.shields.io/badge/2023--06--02-19%3A32%3A32-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2023-08-27 08:32:15*
+*Last updated on: 2023-08-27 13:42:58*
