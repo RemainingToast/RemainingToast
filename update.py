@@ -96,14 +96,14 @@ recent_repos_tpl = """
 <details>
  <summary>Recent Updates</summary>
 |Project|Description|Last Update|
-|:--|:--|:--|
+|:--|:--|:--|\n
 """
 
 top_repos_tpl = """
 <details>
  <summary>Top Projects</summary>
 |Project|Description|Stars|
-|:--|:--|:--|
+|:--|:--|:--|\n
 """.format(current_time)
 
 footer_tpl = f"""
@@ -130,7 +130,6 @@ def render(github_username, github_data, zhihu_username='') -> str:
         recent_repos_tpl += "|[{name}]({link})|{description}|![{pushed_at}](https://img.shields.io/badge/{date}-brightgreen?style=flat-square)|\n".format(**repo)
     recent_repos_tpl += "\n</details>"
     markdown += recent_repos_tpl
-    markdown += footer_tpl
     return markdown
 
 
