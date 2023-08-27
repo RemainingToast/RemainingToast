@@ -108,6 +108,12 @@ top_repos_tpl = """
 |:--|:--|:--|
 """.format(current_time)
 
+footer_tpl = """
+<p align="center">
+  <a href="https://www.digitalocean.com/?refcode=c370c62609f3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+</p>
+"""
+
 def render(github_username, github_data, zhihu_username='') -> str:
     markdown = ""
     global abstract_tpl
@@ -126,6 +132,7 @@ def render(github_username, github_data, zhihu_username='') -> str:
         recent_repos_tpl += "|[{name}]({link})|{description}|![{pushed_at}](https://img.shields.io/badge/{date}-brightgreen?style=flat-square)|\n".format(**repo)
     recent_repos_tpl += " </details>"
     markdown += recent_repos_tpl
+    markdown += footer_tpl
     return markdown
 
 
