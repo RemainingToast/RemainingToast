@@ -56,15 +56,7 @@ def fetcher(username: str):
     result['recent_repos'] = recent_repos
     return result
 
-abstract_tpl = """<p align="center"> 
-  <br>
-  <img src="https://profile-counter.glitch.me/RemainingToast/count.svg" />
-</p>
-
-<p align="center">
-  <a href="https://www.digitalocean.com/?refcode=c370c62609f3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
-</p>
-
+abstract_tpl = """
 <!--<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr><td colspan="2" align="center">
 
