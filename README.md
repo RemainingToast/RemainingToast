@@ -33,10 +33,8 @@
 
 <details>
  <summary>Top Projects</summary>
-  <p align="center">
 |Project|Description|Stars|
 |:--|:--|:--|
-  </p>
 </details>
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`26⭐`|
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|`15⭐`|
@@ -51,10 +49,8 @@
 
 <details>
  <summary>Recent Updates</summary>
-  <p align="center">
 |Project|Description|Last Update|
 |:--|:--|:--|
-  </p>
 </details>
 |[LocationSimulator](https://github.com/RemainingToast/LocationSimulator)|MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.|![2023-08-22 20:05:26](https://img.shields.io/badge/2023--08--22-20%3A05%3A26-brightgreen?style=flat-square)|
 |[ZenithProxy](https://github.com/RemainingToast/ZenithProxy)|2b2t minecraft proxy|![2023-08-15 07:35:26](https://img.shields.io/badge/2023--08--15-07%3A35%3A26-brightgreen?style=flat-square)|
@@ -69,4 +65,4 @@
 
 
 
-*Last updated on: 2023-08-27 13:49:30*
+*Last updated on: 2023-08-27 13:50:48*
