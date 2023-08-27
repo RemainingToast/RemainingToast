@@ -92,14 +92,24 @@ abstract_tpl = """
 
 zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)\n"
 
-recent_repos_tpl = """\n## Recent Updates
-|Project|Description|Last Update|
-|:--|:--|:--|
+recent_repos_tpl = """
+<details>
+ <summary>Recent Updates</summary>
+  <p align="center">
+    |Project|Description|Last Update|
+    |:--|:--|:--|
+  </p>
+</details>
 """
 
-top_repos_tpl = """\n## Top Projects
-|Project|Description|Stars|
-|:--|:--|:--|
+top_repos_tpl = """
+<details>
+ <summary>Top Projects</summary>
+  <p align="center">
+    |Project|Description|Stars|
+    |:--|:--|:--|
+  </p>
+</details>
 """.format(current_time)
 
 footer_tpl = f"""
