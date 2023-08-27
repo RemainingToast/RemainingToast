@@ -94,14 +94,16 @@ zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu
 
 recent_repos_tpl = """
 <details>
- <summary>Recent Updates</summary>
+ <summary>Recent Updates ⏰</summary>
+ 
 |Project|Description|Last Update|
 |:--|:--|:--|
 """
 
 top_repos_tpl = """
 <details>
- <summary>Top Projects</summary>
+ <summary>Top Projects 🚀</summary>
+ 
 |Project|Description|Stars|
 |:--|:--|:--|
 """.format(current_time)
