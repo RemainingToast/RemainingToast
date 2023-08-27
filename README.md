@@ -35,7 +35,6 @@
  <summary>Top Projects</summary>
 |Project|Description|Stars|
 |:--|:--|:--|
-
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`26⭐`|
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|`15⭐`|
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`10⭐`|
@@ -46,13 +45,11 @@
 |[forge-client](https://github.com/RemainingToast/forge-client)|None|`3⭐`|
 |[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|`3⭐`|
 |[ToastPack](https://github.com/RemainingToast/ToastPack)|Minecraft Resource Pack that I use|`3⭐`|
-
-</details>
+ </details>
 <details>
  <summary>Recent Updates</summary>
 |Project|Description|Last Update|
 |:--|:--|:--|
-
 |[LocationSimulator](https://github.com/RemainingToast/LocationSimulator)|MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.|![2023-08-22 20:05:26](https://img.shields.io/badge/2023--08--22-20%3A05%3A26-brightgreen?style=flat-square)|
 |[ZenithProxy](https://github.com/RemainingToast/ZenithProxy)|2b2t minecraft proxy|![2023-08-15 07:35:26](https://img.shields.io/badge/2023--08--15-07%3A35%3A26-brightgreen?style=flat-square)|
 |[ALS4Lyra](https://github.com/RemainingToast/ALS4Lyra)|Completely compatible version of ALS 4 Lyra. |![2023-08-09 04:25:53](https://img.shields.io/badge/2023--08--09-04%3A25%3A53-brightgreen?style=flat-square)|
@@ -63,5 +60,4 @@
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|![2023-06-22 21:17:52](https://img.shields.io/badge/2023--06--22-21%3A17%3A52-brightgreen?style=flat-square)|
 |[Kaiiju](https://github.com/RemainingToast/Kaiiju)|Folia fork for anarchists.|![2023-06-21 09:31:49](https://img.shields.io/badge/2023--06--21-09%3A31%3A49-brightgreen?style=flat-square)|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|![2023-06-14 20:23:29](https://img.shields.io/badge/2023--06--14-20%3A23%3A29-brightgreen?style=flat-square)|
-
-</details>
+ </details>
