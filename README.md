@@ -52,7 +52,7 @@
  
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[ALS4Lyra](https://github.com/RemainingToast/ALS4Lyra)|Completely compatible version of ALS 4 Lyra. |![2023-09-05 22:57:46](https://img.shields.io/badge/2023--09--05-22%3A57%3A46-brightgreen?style=flat-square)|
+|[ALS4Lyra](https://github.com/RemainingToast/ALS4Lyra)|Completely compatible version of ALS 4 Lyra. |![2023-09-06 20:25:38](https://img.shields.io/badge/2023--09--06-20%3A25%3A38-brightgreen?style=flat-square)|
 |[LocationSimulator](https://github.com/RemainingToast/LocationSimulator)|MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.|![2023-08-22 20:05:26](https://img.shields.io/badge/2023--08--22-20%3A05%3A26-brightgreen?style=flat-square)|
 |[ZenithProxy](https://github.com/RemainingToast/ZenithProxy)|2b2t minecraft proxy|![2023-08-15 07:35:26](https://img.shields.io/badge/2023--08--15-07%3A35%3A26-brightgreen?style=flat-square)|
 |[LinearRegionFileFormatTools](https://github.com/RemainingToast/LinearRegionFileFormatTools)|None|![2023-07-02 13:11:34](https://img.shields.io/badge/2023--07--02-13%3A11%3A34-brightgreen?style=flat-square)|
