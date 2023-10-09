@@ -52,8 +52,8 @@
  
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[ZenithProxy](https://github.com/RemainingToast/ZenithProxy)|2b2t minecraft proxy|![2023-10-08 20:55:41](https://img.shields.io/badge/2023--10--08-20%3A55%3A41-brightgreen?style=flat-square)|
 |[LocationSimulator](https://github.com/RemainingToast/LocationSimulator)|MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.|![2023-08-22 20:05:26](https://img.shields.io/badge/2023--08--22-20%3A05%3A26-brightgreen?style=flat-square)|
-|[ZenithProxy](https://github.com/RemainingToast/ZenithProxy)|2b2t minecraft proxy|![2023-08-15 07:35:26](https://img.shields.io/badge/2023--08--15-07%3A35%3A26-brightgreen?style=flat-square)|
 |[LinearRegionFileFormatTools](https://github.com/RemainingToast/LinearRegionFileFormatTools)|None|![2023-07-02 13:11:34](https://img.shields.io/badge/2023--07--02-13%3A11%3A34-brightgreen?style=flat-square)|
 |[the-algorithm](https://github.com/RemainingToast/the-algorithm)|Source code for Twitter's Recommendation Algorithm|![2023-06-29 07:51:21](https://img.shields.io/badge/2023--06--29-07%3A51%3A21-brightgreen?style=flat-square)|
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|![2023-06-28 14:47:20](https://img.shields.io/badge/2023--06--28-14%3A47%3A20-brightgreen?style=flat-square)|
