@@ -111,7 +111,7 @@ top_repos_tpl = """
 footer_tpl = """
 <p align="center">
   <a href="https://www.digitalocean.com/?refcode=c370c62609f3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
-  <a href="https://www.patreon.com/remainingtoast"><img src="https://github.com/RemainingToast/RemainingToast/assets/59129680/c6ce2875-08b9-4de7-ac90-e3d21a2297e0.png" alt="Patreon" /></a>
+  <a href="https://www.patreon.com/remainingtoast"><a href="https://www.patreon.com/remainingtoast"><img src="https://github.com/RemainingToast/RemainingToast/assets/59129680/c6ce2875-08b9-4de7-ac90-e3d21a2297e0" alt="Patreon" /></a></a>
 </p>
 """
 
