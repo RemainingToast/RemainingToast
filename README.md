@@ -52,7 +52,7 @@
  
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[Valthrun](https://github.com/RemainingToast/Valthrun)|Valthrun an open source external CS2 read only kernel gameplay enhancer.|![2023-10-12 23:37:05](https://img.shields.io/badge/2023--10--12-23%3A37%3A05-brightgreen?style=flat-square)|
+|[Valthrun](https://github.com/RemainingToast/Valthrun)|Valthrun an open source external CS2 read only kernel gameplay enhancer.|![2023-10-13 15:29:49](https://img.shields.io/badge/2023--10--13-15%3A29%3A49-brightgreen?style=flat-square)|
 |[ZenithProxy](https://github.com/RemainingToast/ZenithProxy)|2b2t minecraft proxy|![2023-10-08 20:55:41](https://img.shields.io/badge/2023--10--08-20%3A55%3A41-brightgreen?style=flat-square)|
 |[LocationSimulator](https://github.com/RemainingToast/LocationSimulator)|MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.|![2023-08-22 20:05:26](https://img.shields.io/badge/2023--08--22-20%3A05%3A26-brightgreen?style=flat-square)|
 |[LinearRegionFileFormatTools](https://github.com/RemainingToast/LinearRegionFileFormatTools)|None|![2023-07-02 13:11:34](https://img.shields.io/badge/2023--07--02-13%3A11%3A34-brightgreen?style=flat-square)|
