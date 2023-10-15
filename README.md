@@ -52,7 +52,8 @@
  
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[Valthrun](https://github.com/RemainingToast/Valthrun)|Valthrun an open source external CS2 read only kernel gameplay enhancer.|![2023-10-13 15:29:49](https://img.shields.io/badge/2023--10--13-15%3A29%3A49-brightgreen?style=flat-square)|
+|[scrawler](https://github.com/RemainingToast/scrawler)|Simple. Easy. Secure|![2023-10-15 00:35:37](https://img.shields.io/badge/2023--10--15-00%3A35%3A37-brightgreen?style=flat-square)|
+|[Valthrun](https://github.com/RemainingToast/Valthrun)|Valthrun an open source external CS2 read only kernel gameplay enhancer.|![2023-10-14 22:43:48](https://img.shields.io/badge/2023--10--14-22%3A43%3A48-brightgreen?style=flat-square)|
 |[ZenithProxy](https://github.com/RemainingToast/ZenithProxy)|2b2t minecraft proxy|![2023-10-08 20:55:41](https://img.shields.io/badge/2023--10--08-20%3A55%3A41-brightgreen?style=flat-square)|
 |[LocationSimulator](https://github.com/RemainingToast/LocationSimulator)|MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.|![2023-08-22 20:05:26](https://img.shields.io/badge/2023--08--22-20%3A05%3A26-brightgreen?style=flat-square)|
 |[LinearRegionFileFormatTools](https://github.com/RemainingToast/LinearRegionFileFormatTools)|None|![2023-07-02 13:11:34](https://img.shields.io/badge/2023--07--02-13%3A11%3A34-brightgreen?style=flat-square)|
@@ -61,7 +62,6 @@
 |[AusTech-DiscordBot](https://github.com/RemainingToast/AusTech-DiscordBot)|None|![2023-06-26 21:44:12](https://img.shields.io/badge/2023--06--26-21%3A44%3A12-brightgreen?style=flat-square)|
 |[KCommando](https://github.com/RemainingToast/KCommando)|Annotation-based multifunctional command handler framework for JDA & Javacord.|![2023-06-25 21:43:16](https://img.shields.io/badge/2023--06--25-21%3A43%3A16-brightgreen?style=flat-square)|
 |[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|![2023-06-22 21:17:52](https://img.shields.io/badge/2023--06--22-21%3A17%3A52-brightgreen?style=flat-square)|
-|[AusTech-GoogleScript](https://github.com/RemainingToast/AusTech-GoogleScript)|None|![2023-06-22 14:31:58](https://img.shields.io/badge/2023--06--22-14%3A31%3A58-brightgreen?style=flat-square)|
  </details>
 <p align="center">
   <a href="https://www.digitalocean.com/?refcode=c370c62609f3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
