@@ -44,8 +44,8 @@
 |[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|`4⭐`|
 |[DiscordBot](https://github.com/RemainingToast/DiscordBot)|None|`4⭐`|
 |[FamilyFunPack](https://github.com/RemainingToast/FamilyFunPack)|Family Fun Pack utility mod for 2b2t|`4⭐`|
-|[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|`4⭐`|
 |[Duels](https://github.com/RemainingToast/Duels)|A duel plugin for auscpvp.org.|`3⭐`|
+|[forge-client](https://github.com/RemainingToast/forge-client)|None|`3⭐`|
  </details>
 <details>
  <summary>Recent Updates ⏰</summary>
