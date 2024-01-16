@@ -52,6 +52,7 @@
  
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[carpet-autoCraftingTable](https://github.com/RemainingToast/carpet-autoCraftingTable)|1.20 autoCraftingTable extension for carpet-mod|![2024-01-16 00:23:26](https://img.shields.io/badge/2024--01--16-00%3A23%3A26-brightgreen?style=flat-square)|
 |[Valthrun](https://github.com/RemainingToast/Valthrun)|Valthrun an open source external CS2 read only kernel gameplay enhancer.|![2023-10-16 15:16:50](https://img.shields.io/badge/2023--10--16-15%3A16%3A50-brightgreen?style=flat-square)|
 |[scrawler](https://github.com/RemainingToast/scrawler)|Simple. Easy. Secure|![2023-10-15 00:35:37](https://img.shields.io/badge/2023--10--15-00%3A35%3A37-brightgreen?style=flat-square)|
 |[ZenithProxy](https://github.com/RemainingToast/ZenithProxy)|2b2t minecraft proxy|![2023-10-08 20:55:41](https://img.shields.io/badge/2023--10--08-20%3A55%3A41-brightgreen?style=flat-square)|
@@ -61,7 +62,6 @@
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|![2023-06-28 14:47:20](https://img.shields.io/badge/2023--06--28-14%3A47%3A20-brightgreen?style=flat-square)|
 |[AusTech-DiscordBot](https://github.com/RemainingToast/AusTech-DiscordBot)|None|![2023-06-26 21:44:12](https://img.shields.io/badge/2023--06--26-21%3A44%3A12-brightgreen?style=flat-square)|
 |[KCommando](https://github.com/RemainingToast/KCommando)|Annotation-based multifunctional command handler framework for JDA & Javacord.|![2023-06-25 21:43:16](https://img.shields.io/badge/2023--06--25-21%3A43%3A16-brightgreen?style=flat-square)|
-|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|![2023-06-22 21:17:52](https://img.shields.io/badge/2023--06--22-21%3A17%3A52-brightgreen?style=flat-square)|
  </details>
 <p align="center">
   <a href="https://www.digitalocean.com/?refcode=c370c62609f3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
