@@ -36,7 +36,7 @@
  
 |Project|Description|Stars|
 |:--|:--|:--|
-|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`27⭐`|
+|[ToastClient](https://github.com/RemainingToast/ToastClient)|Fabric Minecraft Utility Mod for Anarchy.|`28⭐`|
 |[BaritonePlus](https://github.com/RemainingToast/BaritonePlus)|Baritone+ is an "extension" of Baritone|`18⭐`|
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`11⭐`|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|`8⭐`|
