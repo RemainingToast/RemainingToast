@@ -41,10 +41,10 @@
 |[fabric-client](https://github.com/RemainingToast/fabric-client)|Fabric Utility Mod|`11⭐`|
 |[LambdaAutoDuper](https://github.com/RemainingToast/LambdaAutoDuper)|Automated SalC1 Dupe in Lambda Client|`10⭐`|
 |[DeathMessages](https://github.com/RemainingToast/DeathMessages)|None|`5⭐`|
-|[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|`4⭐`|
 |[DiscordBot](https://github.com/RemainingToast/DiscordBot)|None|`4⭐`|
 |[FamilyFunPack](https://github.com/RemainingToast/FamilyFunPack)|Family Fun Pack utility mod for 2b2t|`4⭐`|
 |[MultiFabric](https://github.com/RemainingToast/MultiFabric)|Experiment, not sure if this will go far. Check out MultiPaper|`4⭐`|
+|[ak3yFCmH](https://github.com/RemainingToast/ak3yFCmH)|None|`3⭐`|
 |[Duels](https://github.com/RemainingToast/Duels)|A duel plugin for auscpvp.org.|`3⭐`|
  </details>
 <details>
